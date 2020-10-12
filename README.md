@@ -10,8 +10,8 @@ Nesse Portfólio você encontrará projetos que fiz durante a realização de cu
 
 ## Projetos 
 
-* **PROJETO 1:** [Pagina de Login](https://github.com/Hedonstralhoti/portfolio-data-science/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
-* **PROJETO 2:** [Rede social inspirada no facebook - Devsbook](https://github.com/Hedonstralhoti/portfolio-data-science/blob/master/PROJETO_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeirob.ipynb)
+* **PROJETO 1:** [Pagina de Login](https://github.com/Hedonstralhoti/Sistema-de-login)
+* **PROJETO 2:** [Rede social inspirada no facebook - Devsbook](https://github.com/Hedonstralhoti/Devsbook)
 
 ---
 
