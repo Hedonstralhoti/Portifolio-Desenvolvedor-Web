@@ -1,6 +1,6 @@
-# Portfólio de Desenvolvedor WEB
+# Portfólio de Desenvolvedor
 
-Atualmente estou realizando alguns projetos pessoais na área de desenvolvimento Web, utilizando PHP, porém já desenvolvi em Javascript, Java, Python e C e não vejo problema em aprender outras tecnologias, pois, meu principal foco é resolver problemas.
+Atualmente estou realizando alguns projetos pessoais na área de desenvolvimento, utilizando PHP, porém já desenvolvi em Javascript, Java, Python e C e não vejo problema em aprender outras tecnologias, pois, meu principal foco é resolver problemas.
 
 
 Nesse Portfólio você encontrará projetos que fiz durante a realização de cursos ou até mesmo projetos pessoais.
