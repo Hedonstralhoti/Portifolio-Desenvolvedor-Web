@@ -13,6 +13,8 @@ Nesse Portfólio você encontrará projetos que fiz durante a realização de cu
 * **PROJETO 1:** [Pagina de Login](https://github.com/Hedonstralhoti/Sistema-de-login)
 * **PROJETO 2:** [Rede social inspirada no facebook - Devsbook](https://github.com/Hedonstralhoti/Devsbook)
 * **PROJETO 3:** [Front de uma aplicação de um internet bank - Devsbook](https://github.com/Hedonstralhoti/bytebank)
+* **PROJETO 4:** [Crud simples de cadastro de produto. Utilizando MVC como padrão de projeto e asp.net core / .NET 6 C#(https://github.com/Hedonstralhoti/cadastroDeProduto)
+
 
 ---
 
