@@ -1,6 +1,6 @@
 # Portfólio de Desenvolvedor
 
-Atualmente trabalho na área de desenvolvimento como Scrum Master, utilizando PHP e Java Script, porém já desenvolvi em Java, Python, .NET e C, não vejo problema em aprender outras tecnologias, pois, meu principal foco é resolver problemas.
+Atualmente trabalho na área de desenvolvimento como Scrum Master, utilizando PHP e Java Script, porém já desenvolvi em Java, Python, .NET, C# e C, não vejo problema em aprender outras tecnologias, pois, meu principal foco é resolver problemas.
 
 
 Nesse Portfólio você encontrará projetos que fiz durante a realização de cursos ou até mesmo projetos pessoais.
