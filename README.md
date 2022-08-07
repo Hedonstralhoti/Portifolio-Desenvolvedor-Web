@@ -11,7 +11,7 @@ Nesse Portfólio você encontrará projetos que fiz durante a realização de cu
 ## Projetos 
 
 * **PROJETO 1:** [Crud simples de cadastro de produto. Utilizando MVC como padrão de projeto e asp.net core / .NET 6 C#](https://github.com/Hedonstralhoti/cadastroDeProduto)
-* **PROJETO 2:** [Minha primeira API utilizando .NET 6 C# - API Cadastro de Usuário](https://github.com/Hedonstralhoti/ApiUsuario)
+* **PROJETO 2:** [Minha primeira API utilizando .NET 6 C# - API Cadastro de Produto Crud](https://github.com/Hedonstralhoti/ApiUsuario)
 * **PROJETO 3:** [Projeto ToDo(Lista de tarefas). Asp.net core / .NET 6 C#](https://github.com/Hedonstralhoti/ListaDeTarefas)
 * **PROJETO 4:** [Pagina de Login - PHP + JavaScript](https://github.com/Hedonstralhoti/Sistema-de-login)
 * **PROJETO 5:** [Rede social inspirada no facebook - Devsbook - PHP + JavaScript](https://github.com/Hedonstralhoti/Devsbook)
